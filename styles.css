@@ -1,0 +1,18 @@
+#first {
+  width: 1260px;
+  height: 600px;
+  background-color: #9400D3;
+  position: relative;
+color:white;
+}
+#first #second {
+  width: 75%;
+  height: 75%;
+  background-color: #336699;
+    color: white;
+    padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
